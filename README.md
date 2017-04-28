@@ -8,3 +8,5 @@
 
 type: circle
 
+color: red
+
