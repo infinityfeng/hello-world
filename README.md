@@ -6,3 +6,5 @@
 # in branch
 # change from desktop
 
+type: circle
+
